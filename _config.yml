@@ -106,11 +106,14 @@ friends: [
         title: "catvinci",
         href: "http://www.catvinci.cn"
     }
-    #,{
-     #   title: "Apple",
-      #  href: "https://apple.com"
-    #},{
-     #   title: "Apple Developer",
-      #  href: "https://developer.apple.com/"
-    #}
+    ,{
+        title: "etaoinwu",
+        href: "https://etaoinwu.com/"
+    },{
+        title: "zhaoji wang",
+        href: "https://zhaoji.wang/"
+    },{
+        title:"王瀚弘",
+        href:"https://candleight-outing.github.io"
+        }
 ]
